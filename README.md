@@ -1,2 +1,0 @@
-# BABU-RD
-PYTHON
